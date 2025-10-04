@@ -1,11 +1,11 @@
 <h2>Hi, I'm Shafqat Ara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h2>
 
-<img align="right" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>Front-End Developer passionate about building clean, responsive, and interactive web experiences ✨</em></p>
 <p><em>Currently focused on <b>React & Modern JavaScript</b> while constantly improving my design sense and project structure.</em></p>
 
-[![Linkedin: shafqat-ara](https://img.shields.io/badge/-Shafqat%20Ara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://linkedin.com/in/shafqat-ara-31903437a)
+[![Linkedin: shafqat-ara](https://img.shields.io/badge/-Shafqat%20Ara-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shafqat-ara-31903437a)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blueviolet?style=flat-square)](#)
 
 ---
